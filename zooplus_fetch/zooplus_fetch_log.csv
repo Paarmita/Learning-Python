@@ -1,0 +1,9 @@
+article_id,ok,status_code,error,response_body
+398782,True,200,,
+1600607,True,200,,
+3991485,True,200,,
+3018676,True,200,,
+2412089,False,422,HTTP 422,"{""detail"":""Unable to provide articles for site.name='zooplus.com' article_id=2412089: Not sufficient recommendable variants found""}"
+5150144,False,422,HTTP 422,"{""detail"":""Unable to provide articles for site.name='zooplus.com' article_id=5150144: Not sufficient recommendable variants found""}"
+4098948,True,200,,
+3434699,True,200,,

@@ -1,0 +1,3440 @@
+[
+  {
+    "article_id": "398782",
+    "caption": "Similar products",
+    "articles": [
+      {
+        "product": {
+          "shopIdentifier": 127214,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Cat's Best Original Cat litter",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 629
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/0/400/1_10794_pla_catsbest_originalkatzenstreu_10l_hs_01_0.jpg",
+          "link": "/shop/cats/cat_litter/cats_best/127214"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 398782,
+          "variantId": 0,
+          "name": "10l",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_ABD.398782_7989620",
+            "type": "1P_ABD",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-20%",
+              "value": 20.0
+            },
+            "price": {
+              "value": 11.992,
+              "label": "€11.99",
+              "labelFull": "€11.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 14.99,
+              "label": "€14.99",
+              "labelFull": "€14.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.2,
+              "label": "€1.20",
+              "labelFull": "€1.20",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P_AUS.398782",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 14.2405,
+              "label": "€14.24",
+              "labelFull": "€14.24",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 14.99,
+              "label": "€14.99",
+              "labelFull": "€14.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.42,
+              "label": "€1.42",
+              "labelFull": "€1.42",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.398782",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 14.99,
+              "label": "€14.99",
+              "labelFull": "€14.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.5,
+              "label": "€1.50",
+              "labelFull": "€1.50",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.wood"
+            ],
+            "valuesLocalized": [
+              "Wood"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 127212,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Tigerino Crystals Cat Litter - Sensitive (fragrance free)",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 120
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/2/400/tigerino_crystal_sensitive_5l_1000x1000_2.jpg",
+          "link": "/shop/cats/cat_litter/tigerino/tigerino_silicate/127212"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 398779,
+          "variantId": 0,
+          "name": "5l",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.398779",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 8.54,
+              "label": "€8.54",
+              "labelFull": "€8.54",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 8.99,
+              "label": "€8.99",
+              "labelFull": "€8.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.71,
+              "label": "€1.71",
+              "labelFull": "€1.71",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.398779",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 8.99,
+              "label": "€8.99",
+              "labelFull": "€8.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.8,
+              "label": "€1.80",
+              "labelFull": "€1.80",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              null
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.silica"
+            ],
+            "valuesLocalized": [
+              "Silica"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 460994,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Super Benek Corn Cat Natural Clumping Litter",
+          "feedbackAggregate": {
+            "rating": 4,
+            "reviewCount": 128
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/8/400/64938_pla_super_benek_corn_cat_classic_naturalny_7l_hs_01_8.jpg",
+          "link": "/shop/cats/cat_litter/benek/corn/460994"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 1546954,
+          "variantId": 0,
+          "name": "7l (approx. 4.4kg)",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.1546954",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 8.07,
+              "label": "€8.07",
+              "labelFull": "€8.07",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 8.49,
+              "label": "€8.49",
+              "labelFull": "€8.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.15,
+              "label": "€1.15",
+              "labelFull": "€1.15",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.1546954",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 8.49,
+              "label": "€8.49",
+              "labelFull": "€8.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.21,
+              "label": "€1.21",
+              "labelFull": "€1.21",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.corn"
+            ],
+            "valuesLocalized": [
+              "Corn"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 153790,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Golden Grey Odour",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 32
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/7/400/27624_pla_pet_earth_golden_grey_odour_katzenstreu_7.jpg",
+          "link": "/shop/cats/cat_litter/golden_grey/153790"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 462488,
+          "variantId": 0,
+          "name": "14kg",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_ABD.462488_7987044",
+            "type": "1P_ABD",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-10%",
+              "value": 10.0
+            },
+            "price": {
+              "value": 18.44,
+              "label": "€18.44",
+              "labelFull": "€18.44",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 20.49,
+              "label": "€20.49",
+              "labelFull": "€20.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.32,
+              "label": "€1.32",
+              "labelFull": "€1.32",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P_AUS.462488",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 19.47,
+              "label": "€19.47",
+              "labelFull": "€19.47",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 20.49,
+              "label": "€20.49",
+              "labelFull": "€20.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.39,
+              "label": "€1.39",
+              "labelFull": "€1.39",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.462488",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 20.49,
+              "label": "€20.49",
+              "labelFull": "€20.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.46,
+              "label": "€1.46",
+              "labelFull": "€1.46",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.clay"
+            ],
+            "valuesLocalized": [
+              "Clay"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      }
+    ]
+  },
+  {
+    "article_id": "1600607",
+    "caption": "Similar products",
+    "articles": [
+      {
+        "product": {
+          "shopIdentifier": 153235,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Tigerino Premium Cat Litter - Babypowder Scented",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 144
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/2/400/tigerino_premium_babypowder_6kg_1000x1000_2.jpg",
+          "link": "/shop/cats/cat_litter/tigerino/tigerino_clumping/153235"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 1600607,
+          "variantId": 4,
+          "name": "6kg",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.1600607",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 7.12,
+              "label": "€7.12",
+              "labelFull": "€7.12",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 7.49,
+              "label": "€7.49",
+              "labelFull": "€7.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.19,
+              "label": "€1.19",
+              "labelFull": "€1.19",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.1600607",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 7.49,
+              "label": "€7.49",
+              "labelFull": "€7.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.25,
+              "label": "€1.25",
+              "labelFull": "€1.25",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.bentonite",
+              "material.clay"
+            ],
+            "valuesLocalized": [
+              "Bentonite",
+              "Clay"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 479249,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Greenwoods Plant Fibre Natural Clumping Litter",
+          "feedbackAggregate": {
+            "rating": 4,
+            "reviewCount": 130
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/9/400/greenwoods_cat_litter_1000l_1000x1000_9.jpg",
+          "link": "/shop/cats/cat_litter/greenwoods_cat_litter/greenwoods_clumping_wood_litter/479249"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 3163161,
+          "variantId": 4,
+          "name": "30l (approx. 12.9kg)",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P.3163161",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 35.99,
+              "label": "€35.99",
+              "labelFull": "€35.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.2,
+              "label": "€1.20",
+              "labelFull": "€1.20",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.wood"
+            ],
+            "valuesLocalized": [
+              "Wood"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 127216,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Cat's Best Smart Pellets Cat litter",
+          "feedbackAggregate": {
+            "rating": 4,
+            "reviewCount": 117
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/4/400/373496_pla_cats_bestsmart_pellets_katzenstreu_hs_01_4.jpg",
+          "link": "/shop/cats/cat_litter/cats_best/127216"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 4914856,
+          "variantId": 3,
+          "name": "10l",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.4914856",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 15.38,
+              "label": "€15.38",
+              "labelFull": "€15.38",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 16.19,
+              "label": "€16.19",
+              "labelFull": "€16.19",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.54,
+              "label": "€1.54",
+              "labelFull": "€1.54",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.4914856",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 16.19,
+              "label": "€16.19",
+              "labelFull": "€16.19",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.62,
+              "label": "€1.62",
+              "labelFull": "€1.62",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.wood"
+            ],
+            "valuesLocalized": [
+              "Wood"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 1584398,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Sepicat LightWeight Extreme Fresh",
+          "feedbackAggregate": {
+            "rating": 0,
+            "reviewCount": 0
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/8/400/sepicat_8l_1000x1000_8.jpg",
+          "link": "/shop/cats/cat_litter/sepicat/1584398"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 4524265,
+          "variantId": 0,
+          "name": "8l",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.4524265",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 9.02,
+              "label": "€9.02",
+              "labelFull": "€9.02",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 9.49,
+              "label": "€9.49",
+              "labelFull": "€9.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.13,
+              "label": "€1.13",
+              "labelFull": "€1.13",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.4524265",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 9.49,
+              "label": "€9.49",
+              "labelFull": "€9.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.19,
+              "label": "€1.19",
+              "labelFull": "€1.19",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.clay"
+            ],
+            "valuesLocalized": [
+              "Clay"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      }
+    ]
+  },
+  {
+    "article_id": "3991485",
+    "caption": "Similar products",
+    "articles": [
+      {
+        "product": {
+          "shopIdentifier": 460994,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Super Benek Corn Cat Natural Clumping Litter",
+          "feedbackAggregate": {
+            "rating": 4,
+            "reviewCount": 128
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/2/400/269022_pla_super_benek_corn_cat_natural_35l_01_2.jpg",
+          "link": "/shop/cats/cat_litter/benek/corn/460994"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 3991485,
+          "variantId": 3,
+          "name": "35l (approx. 22.5kg)",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.3991485",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 37.99,
+              "label": "€37.99",
+              "labelFull": "€37.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 39.99,
+              "label": "€39.99",
+              "labelFull": "€39.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.09,
+              "label": "€1.09",
+              "labelFull": "€1.09",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.3991485",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 39.99,
+              "label": "€39.99",
+              "labelFull": "€39.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.14,
+              "label": "€1.14",
+              "labelFull": "€1.14",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.corn"
+            ],
+            "valuesLocalized": [
+              "Corn"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 153235,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Tigerino Premium Cat Litter - Babypowder Scented",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 144
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/1/400/tigerino_premium_babypowder_12kg_1000x1000_1.jpg",
+          "link": "/shop/cats/cat_litter/tigerino/tigerino_clumping/153235"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 2182458,
+          "variantId": 6,
+          "name": "Economy Pack: 2 x 12kg",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.2182458",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 23.74,
+              "label": "€23.74",
+              "labelFull": "€23.74",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 24.99,
+              "label": "€24.99",
+              "labelFull": "Individually €24.99",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 0.99,
+              "label": "€0.99",
+              "labelFull": "€0.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.2182458",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 24.99,
+              "label": "€24.99",
+              "labelFull": "€24.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 26.98,
+              "label": "€26.98",
+              "labelFull": "Individually €26.98",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.04,
+              "label": "€1.04",
+              "labelFull": "€1.04",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.bentonite",
+              "material.clay"
+            ],
+            "valuesLocalized": [
+              "Bentonite",
+              "Clay"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 127214,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Cat's Best Original Cat litter",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 629
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/4/400/2502_pla_catsbest_original_40l_hs_01_4.jpg",
+          "link": "/shop/cats/cat_litter/cats_best/127214"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 398783,
+          "variantId": 1,
+          "name": "40l",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_ABD.398783_7973609",
+            "type": "1P_ABD",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-20%",
+              "value": 20.0
+            },
+            "price": {
+              "value": 31.992,
+              "label": "€31.99",
+              "labelFull": "€31.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 39.99,
+              "label": "€39.99",
+              "labelFull": "€39.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 0.8,
+              "label": "€0.80",
+              "labelFull": "€0.80",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P_AUS.398783",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 37.9905,
+              "label": "€37.99",
+              "labelFull": "€37.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 39.99,
+              "label": "€39.99",
+              "labelFull": "€39.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 0.95,
+              "label": "€0.95",
+              "labelFull": "€0.95",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.398783",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 39.99,
+              "label": "€39.99",
+              "labelFull": "€39.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.0,
+              "label": "€1.00",
+              "labelFull": "€1.00",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.wood"
+            ],
+            "valuesLocalized": [
+              "Wood"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 127206,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Golden Grey Master",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 95
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/0/400/17543_pla_golden_gray_katzenstreu_hs_01_0.jpg",
+          "link": "/shop/cats/cat_litter/golden_grey/127206"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 398773,
+          "variantId": 0,
+          "name": "14kg",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_ABD.398773_7990624",
+            "type": "1P_ABD",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-10%",
+              "value": 10.0
+            },
+            "price": {
+              "value": 18.44,
+              "label": "€18.44",
+              "labelFull": "€18.44",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 20.49,
+              "label": "€20.49",
+              "labelFull": "€20.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.32,
+              "label": "€1.32",
+              "labelFull": "€1.32",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P_AUS.398773",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 19.47,
+              "label": "€19.47",
+              "labelFull": "€19.47",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 20.49,
+              "label": "€20.49",
+              "labelFull": "€20.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.39,
+              "label": "€1.39",
+              "labelFull": "€1.39",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.398773",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 20.49,
+              "label": "€20.49",
+              "labelFull": "€20.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 1.46,
+              "label": "€1.46",
+              "labelFull": "€1.46",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.clay",
+              "material.silica"
+            ],
+            "valuesLocalized": [
+              "Clay",
+              "Silica"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      }
+    ]
+  },
+  {
+    "article_id": "3018676",
+    "caption": "Similar products",
+    "articles": [
+      {
+        "product": {
+          "shopIdentifier": 631865,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Catsan Hygiene Plus Cat Litter",
+          "feedbackAggregate": {
+            "rating": 4,
+            "reviewCount": 59
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/1/400/115096_pla__catsan_hygiene_plus_katzenstreu_18l_mars_01_1.jpg",
+          "link": "/shop/cats/cat_litter/catsan/631865"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 3018676,
+          "variantId": 6,
+          "name": "Economy Pack: 2 x 18l",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_ABD.3018676_7952388",
+            "type": "1P_ABD",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-25%",
+              "value": 25.0
+            },
+            "price": {
+              "value": 34.1175,
+              "label": "€34.12",
+              "labelFull": "€34.12",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 45.49,
+              "label": "€45.49",
+              "labelFull": "Individually €45.49",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 0.95,
+              "label": "€0.95",
+              "labelFull": "€0.95",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P_AUS.3018676",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 43.2155,
+              "label": "€43.22",
+              "labelFull": "€43.22",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 45.49,
+              "label": "€45.49",
+              "labelFull": "Individually €45.49",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.2,
+              "label": "€1.20",
+              "labelFull": "€1.20",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.3018676",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 45.49,
+              "label": "€45.49",
+              "labelFull": "€45.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 49.98,
+              "label": "€49.98",
+              "labelFull": "Individually €49.98",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.26,
+              "label": "€1.26",
+              "labelFull": "€1.26",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              null
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 1493042,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Tigerino Performance Cat Litter - Special Price! *",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 10
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/1/400/1_tigerino_activecarbon_prformance_14l_1000x1000_1.jpg",
+          "link": "/shop/cats/cat_litter/tigerino/1493042"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 4395339,
+          "variantId": 0,
+          "name": "Active Carbon – Baby Powder Scent (14l)",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P.4395339",
+            "type": "1P",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-10.01%",
+              "value": 10.01
+            },
+            "price": {
+              "value": 17.09,
+              "label": "€17.09",
+              "labelFull": "€17.09",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "OFFER",
+            "referencePrice": {
+              "value": 18.99,
+              "label": "€18.99",
+              "labelFull": "Was €18.99",
+              "labelPattern": "Was {0}",
+              "labelPrefix": "Was",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 1.22,
+              "label": "€1.22",
+              "labelFull": "€1.22",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "material",
+            "nameLocalized": "Material",
+            "values": [
+              "material.bentonite",
+              "material.clay"
+            ],
+            "valuesLocalized": [
+              "Bentonite",
+              "Clay"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 2026619,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "ODOURLOCK MaxCare Cat Litter",
+          "feedbackAggregate": {
+            "rating": 0,
+            "reviewCount": 0
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/3/400/372196_pla_odourlock_katzenstreu_maxcare_hs_01_3.jpg",
+          "link": "/shop/cats/cat_litter/intersand_odourlock_cat_litter/odourlock_clumping/2026619"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 5372169,
+          "variantId": 0,
+          "name": "Economy Pack: 2 x 12kg",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P.5372169",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 55.49,
+              "label": "€55.49",
+              "labelFull": "€55.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 56.98,
+              "label": "€56.98",
+              "labelFull": "Individually €56.98",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 2.31,
+              "label": "€2.31",
+              "labelFull": "€2.31",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 1812619,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Breeder Celect Paper Cat Litter",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 3
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/5/400/379996_breeder_celect_papier_katzenstreu_30l_hs_02_1_5.jpg",
+          "link": "/shop/cats/cat_litter/ecological_litter/bio_nonclumping/1812619"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 4854547,
+          "variantId": 0,
+          "name": "30l",
+          "bonuspoints": null,
+          "unit": "l"
+        },
+        "articleOffers": [
+          {
+            "id": "1P.4854547",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 27.99,
+              "label": "€27.99",
+              "labelFull": "€27.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 0.93,
+              "label": "€0.93",
+              "labelFull": "€0.93",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "feature.clumping",
+            "nameLocalized": "Clumping",
+            "values": [
+              null
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.odourblocking",
+            "nameLocalized": "Odour blocking",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "feature.scented",
+            "nameLocalized": "Scented",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      }
+    ]
+  },
+  {
+    "article_id": "4098948",
+    "caption": "Similar products",
+    "articles": [
+      {
+        "product": {
+          "shopIdentifier": 298663,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Gourmet Gold Pâté Recipes Saver Pack 24 x 85g",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 38
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/4/400/246297_nestle_gourmet_gold_feine_pastete_mix_12x85g_hs_02_4.jpg",
+          "link": "/shop/cats/canned_cat_food_pouches/gourmet/gourmet_saver_packs/298663"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 4098948,
+          "variantId": 19,
+          "name": "Meat & Fish Mixed Pack (Rabbit, Chicken, Salmon, Kidney)",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.4098948",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 16.33,
+              "label": "€16.33",
+              "labelFull": "€16.33",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 17.19,
+              "label": "€17.19",
+              "labelFull": "Individually €17.19",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 8.01,
+              "label": "€8.01",
+              "labelFull": "€8.01",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.4098948",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 17.19,
+              "label": "€17.19",
+              "labelFull": "€17.19",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 18.58,
+              "label": "€18.58",
+              "labelFull": "Individually €18.58",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 8.43,
+              "label": "€8.43",
+              "labelFull": "€8.43",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "flavour",
+            "nameLocalized": "Flavour",
+            "values": [
+              "flavour.chicken",
+              "flavour.fish",
+              "flavour.mixed",
+              "flavour.rabbit"
+            ],
+            "valuesLocalized": [
+              "Chicken",
+              "Fish",
+              "Mixed meat",
+              "Rabbit"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "packaging_size",
+            "nameLocalized": "Product weight",
+            "values": [
+              "size.until100g"
+            ],
+            "valuesLocalized": [
+              "< 100g"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "phase_of_life_cat",
+            "nameLocalized": "Life stage",
+            "values": [
+              "phase.cat.adult"
+            ],
+            "valuesLocalized": [
+              "Adult"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "texture",
+            "nameLocalized": "Texture",
+            "values": [
+              "texture.pate.mousse"
+            ],
+            "valuesLocalized": [
+              "Pâté/mousse"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 791268,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Cosma Nature Pouches Saver Pack 18 x 50g",
+          "feedbackAggregate": {
+            "rating": 0,
+            "reviewCount": 0
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/6/400/70170_pla_cosma_nature_mix_6x50g_pouchbox_6.jpg",
+          "link": "/shop/cats/canned_cat_food_pouches/cosma_nature/saver_packs/791268"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 2823376,
+          "variantId": 2,
+          "name": "Mixed Pack (6 Varieties)",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.2823376",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 15.19,
+              "label": "€15.19",
+              "labelFull": "€15.19",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 15.99,
+              "label": "€15.99",
+              "labelFull": "Individually €15.99",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 16.88,
+              "label": "€16.88",
+              "labelFull": "€16.88",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.2823376",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 15.99,
+              "label": "€15.99",
+              "labelFull": "€15.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 17.97,
+              "label": "€17.97",
+              "labelFull": "Individually €17.97",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 17.77,
+              "label": "€17.77",
+              "labelFull": "€17.77",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "flavour",
+            "nameLocalized": "Flavour",
+            "values": [
+              "flavour.chicken",
+              "flavour.fish",
+              "flavour.mixed"
+            ],
+            "valuesLocalized": [
+              "Chicken",
+              "Fish",
+              "Mixed meat"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "health_specialcare_cat",
+            "nameLocalized": "Health Benefits",
+            "values": [
+              "specialcare.indoor"
+            ],
+            "valuesLocalized": [
+              "Indoor"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "packaging_size",
+            "nameLocalized": "Product weight",
+            "values": [
+              "size.until100g"
+            ],
+            "valuesLocalized": [
+              "< 100g"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "phase_of_life_cat",
+            "nameLocalized": "Life stage",
+            "values": [
+              "phase.cat.adult"
+            ],
+            "valuesLocalized": [
+              "Adult"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "specificity.food.nograin",
+            "nameLocalized": "Grain-free",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "specificity.food.nogluten",
+            "nameLocalized": "Gluten-free",
+            "values": [
+              true
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "texture",
+            "nameLocalized": "Texture",
+            "values": [
+              "texture.broth"
+            ],
+            "valuesLocalized": [
+              "Broth/stock"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 611077,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Sheba Pouches Select Slices in Gravy 12 x 85g",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 4
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/8/400/73026_pla_sheba_megapack_12x85g_selectionsauce_hs_01_8.jpg",
+          "link": "/shop/cats/canned_cat_food_pouches/sheba/sheba_pouches_cat_food/611077"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 2123068,
+          "variantId": 0,
+          "name": "Succulent Collection in Gravy",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_ABD.2123068_7987111",
+            "type": "1P_ABD",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-20%",
+              "value": 20.0
+            },
+            "price": {
+              "value": 8.392,
+              "label": "€8.39",
+              "labelFull": "€8.39",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 10.49,
+              "label": "€10.49",
+              "labelFull": "€10.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 8.23,
+              "label": "€8.23",
+              "labelFull": "€8.23",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P_AUS.2123068",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 9.9655,
+              "label": "€9.97",
+              "labelFull": "€9.97",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 10.49,
+              "label": "€10.49",
+              "labelFull": "€10.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 9.77,
+              "label": "€9.77",
+              "labelFull": "€9.77",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.2123068",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 10.49,
+              "label": "€10.49",
+              "labelFull": "€10.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 10.28,
+              "label": "€10.28",
+              "labelFull": "€10.28",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "flavour",
+            "nameLocalized": "Flavour",
+            "values": [
+              "flavour.mixed"
+            ],
+            "valuesLocalized": [
+              "Mixed meat"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "packaging_size",
+            "nameLocalized": "Product weight",
+            "values": [
+              "size.until100g"
+            ],
+            "valuesLocalized": [
+              "< 100g"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "phase_of_life_cat",
+            "nameLocalized": "Life stage",
+            "values": [
+              "phase.cat.adult"
+            ],
+            "valuesLocalized": [
+              "Adult"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "texture",
+            "nameLocalized": "Texture",
+            "values": [
+              "texture.sauce"
+            ],
+            "valuesLocalized": [
+              "Sauce/gravy"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 620761,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Felix As Good As It Looks Mega Pack 120 x 85g",
+          "feedbackAggregate": {
+            "rating": 4,
+            "reviewCount": 14
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/2/400/171114_pla_nestlegermaindc_jumbopack_felix_sogut_gemischtevielfalt_120x85g_hs_01_2.jpg",
+          "link": "/shop/cats/canned_cat_food_pouches/felix/as_good_as_it_looks/620761"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 3834100,
+          "variantId": 8,
+          "name": "Beef, Chicken, Cod & Tuna",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.3834100",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 58.8905,
+              "label": "€58.89",
+              "labelFull": "€58.89",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 61.99,
+              "label": "€61.99",
+              "labelFull": "€61.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 5.77,
+              "label": "€5.77",
+              "labelFull": "€5.77",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.3834100",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 61.99,
+              "label": "€61.99",
+              "labelFull": "€61.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 6.08,
+              "label": "€6.08",
+              "labelFull": "€6.08",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "flavour",
+            "nameLocalized": "Flavour",
+            "values": [
+              "flavour.mixed"
+            ],
+            "valuesLocalized": [
+              "Mixed meat"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "packaging_size",
+            "nameLocalized": "Product weight",
+            "values": [
+              "size.until100g"
+            ],
+            "valuesLocalized": [
+              "< 100g"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "phase_of_life_cat",
+            "nameLocalized": "Life stage",
+            "values": [
+              "phase.cat.adult"
+            ],
+            "valuesLocalized": [
+              "Adult"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      }
+    ]
+  },
+  {
+    "article_id": "3434699",
+    "caption": "Similar products",
+    "articles": [
+      {
+        "product": {
+          "shopIdentifier": 134249,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Royal Canin Instinctive in Gravy",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 150
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/0/400/63614_pla_royalcanin_instinctivein_sosse_0.jpg",
+          "link": "/shop/cats/canned_cat_food_pouches/royal_canin_wet_cat_food/royal_canin_adult/134249"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 3434699,
+          "variantId": 7,
+          "name": "Saver Pack: 24 x 85g",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.3434699",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 34.67,
+              "label": "€34.67",
+              "labelFull": "€34.67",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 36.49,
+              "label": "€36.49",
+              "labelFull": "Individually €36.49",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 16.99,
+              "label": "€16.99",
+              "labelFull": "€16.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.3434699",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 36.49,
+              "label": "€36.49",
+              "labelFull": "€36.49",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 37.98,
+              "label": "€37.98",
+              "labelFull": "Individually €37.98",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 17.89,
+              "label": "€17.89",
+              "labelFull": "€17.89",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "packaging_size",
+            "nameLocalized": "Product weight",
+            "values": [
+              "size.1.1to2kg"
+            ],
+            "valuesLocalized": [
+              "1.1-2kg"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "phase_of_life_cat",
+            "nameLocalized": "Life stage",
+            "values": [
+              "phase.cat.adult",
+              "phase.cat.senior"
+            ],
+            "valuesLocalized": [
+              "Adult",
+              "Senior"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "texture",
+            "nameLocalized": "Texture",
+            "values": [
+              "texture.sauce"
+            ],
+            "valuesLocalized": [
+              "Sauce/gravy"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 962054,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Concept for Life Maine Coon Adult - in Ragout",
+          "feedbackAggregate": {
+            "rating": 0,
+            "reviewCount": 0
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/0/400/111112_pla_concept_for_life_katze_nass_maine_coon_85g_9_0.jpg",
+          "link": "/shop/cats/canned_cat_food_pouches/concept_for_life/concept_for_life_breed_cat/962054"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 3099741,
+          "variantId": 0,
+          "name": "24 x 85g",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.3099741",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 25.64,
+              "label": "€25.64",
+              "labelFull": "€25.64",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 26.99,
+              "label": "€26.99",
+              "labelFull": "Individually €26.99",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 12.57,
+              "label": "€12.57",
+              "labelFull": "€12.57",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.3099741",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 26.99,
+              "label": "€26.99",
+              "labelFull": "€26.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "SET",
+            "referencePrice": {
+              "value": 27.98,
+              "label": "€27.98",
+              "labelFull": "Individually €27.98",
+              "labelPattern": "Individually {0}",
+              "labelPrefix": "Individually",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 13.23,
+              "label": "€13.23",
+              "labelFull": "€13.23",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "flavour",
+            "nameLocalized": "Flavour",
+            "values": [
+              "flavour.chicken"
+            ],
+            "valuesLocalized": [
+              "Chicken"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "packaging_size",
+            "nameLocalized": "Product weight",
+            "values": [
+              "size.1.1to2kg"
+            ],
+            "valuesLocalized": [
+              "1.1-2kg"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "phase_of_life_cat",
+            "nameLocalized": "Life stage",
+            "values": [
+              "phase.cat.adult"
+            ],
+            "valuesLocalized": [
+              "Adult"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "specificity.food.nograin",
+            "nameLocalized": "Grain-free",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "specificity.food.nogluten",
+            "nameLocalized": "Gluten-free",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 961934,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Concept for Life British Shorthair Adult - in Ragout",
+          "feedbackAggregate": {
+            "rating": 0,
+            "reviewCount": 0
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/9/400/111196__pla_concept_for_life__katze_british_shorthair_85g_9.jpg",
+          "link": "/shop/cats/canned_cat_food_pouches/concept_for_life/concept_for_life_breed_cat/961934"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 3099276,
+          "variantId": 2,
+          "name": "12 x 85g",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.3099276",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 13.29,
+              "label": "€13.29",
+              "labelFull": "€13.29",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 13.99,
+              "label": "€13.99",
+              "labelFull": "€13.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 13.03,
+              "label": "€13.03",
+              "labelFull": "€13.03",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.3099276",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 13.99,
+              "label": "€13.99",
+              "labelFull": "€13.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 13.72,
+              "label": "€13.72",
+              "labelFull": "€13.72",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "flavour",
+            "nameLocalized": "Flavour",
+            "values": [
+              "flavour.chicken"
+            ],
+            "valuesLocalized": [
+              "Chicken"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "packaging_size",
+            "nameLocalized": "Product weight",
+            "values": [
+              "size.1.1to2kg"
+            ],
+            "valuesLocalized": [
+              "1.1-2kg"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "phase_of_life_cat",
+            "nameLocalized": "Life stage",
+            "values": [
+              "phase.cat.adult"
+            ],
+            "valuesLocalized": [
+              "Adult"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "specificity.food.nograin",
+            "nameLocalized": "Grain-free",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          },
+          {
+            "name": "specificity.food.nogluten",
+            "nameLocalized": "Gluten-free",
+            "values": [
+              false
+            ],
+            "valuesLocalized": [],
+            "type": "boolean"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      },
+      {
+        "product": {
+          "shopIdentifier": 497695,
+          "badges": {
+            "zooplusChoice": {
+              "active": false,
+              "label": "zooplus choice",
+              "description": "Excellent price-quality ratio products recommended by our customer"
+            },
+            "sponsored": false
+          },
+          "name": "Royal Canin Hairball Care in Gravy",
+          "feedbackAggregate": {
+            "rating": 5,
+            "reviewCount": 72
+          },
+          "pictureUrl": "https://media.zooplus.com/bilder/6/400/rc_fcn_hairballgravy_5_de_de_6.jpg",
+          "link": "/shop/cats/canned_cat_food_pouches/royal_canin_wet_cat_food/royal_canin_adult/497695"
+        },
+        "siteId": 2,
+        "language": "en",
+        "locale": "en_GB",
+        "article": {
+          "id": 3434675,
+          "variantId": 3,
+          "name": "12 x 85g",
+          "bonuspoints": null,
+          "unit": "kg"
+        },
+        "articleOffers": [
+          {
+            "id": "1P_AUS.3434675",
+            "type": "1P_AUS",
+            "discount": {
+              "type": "PERCENTAGE_DISCOUNT",
+              "label": "-5%",
+              "value": 5.0
+            },
+            "price": {
+              "value": 16.14,
+              "label": "€16.14",
+              "labelFull": "€16.14",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": {
+              "value": 16.99,
+              "label": "€16.99",
+              "labelFull": "€16.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "unitPrice": {
+              "value": 15.82,
+              "label": "€15.82",
+              "labelFull": "€15.82",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          },
+          {
+            "id": "1P.3434675",
+            "type": "1P",
+            "discount": null,
+            "price": {
+              "value": 16.99,
+              "label": "€16.99",
+              "labelFull": "€16.99",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "priceType": "REGULAR",
+            "referencePrice": null,
+            "unitPrice": {
+              "value": 16.66,
+              "label": "€16.66",
+              "labelFull": "€16.66",
+              "labelPattern": "{0}",
+              "labelPrefix": "",
+              "currency": "EUR"
+            },
+            "secondaryCurrency": null,
+            "tooltip": null
+          }
+        ],
+        "facets": [
+          {
+            "name": "health_specialcare_cat",
+            "nameLocalized": "Health Benefits",
+            "values": [
+              "specialcare.hairball"
+            ],
+            "valuesLocalized": [
+              "Hairball prevention"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "packaging_size",
+            "nameLocalized": "Product weight",
+            "values": [
+              "size.1.1to2kg"
+            ],
+            "valuesLocalized": [
+              "1.1-2kg"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "phase_of_life_cat",
+            "nameLocalized": "Life stage",
+            "values": [
+              "phase.cat.adult",
+              "phase.cat.senior"
+            ],
+            "valuesLocalized": [
+              "Adult",
+              "Senior"
+            ],
+            "type": "array"
+          },
+          {
+            "name": "texture",
+            "nameLocalized": "Texture",
+            "values": [
+              "texture.sauce"
+            ],
+            "valuesLocalized": [
+              "Sauce/gravy"
+            ],
+            "type": "array"
+          }
+        ],
+        "weight": 1.0,
+        "trackingId": null
+      }
+    ]
+  }
+]
